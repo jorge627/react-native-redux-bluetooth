@@ -13,6 +13,9 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
+    "handlebars": "^4.1.2",
+    "lodash": "^4.17.13",
+    "lodash.merge": "^4.6.2",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
     "react-native": "0.59.9",
